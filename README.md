@@ -1,6 +1,6 @@
 # Fastshop-OWASP-API-security-lab
  Wallarm University – API Security Certified Associate. This is a free, hands-on certification course focused specifically on API security—one of the fastest-growing areas in cybersecurity. 
- https://wallarm.thinkific.com/products/courses/API-Security-Certified-Associate
+ https://wallarm.thinkific.com/products/courses/API-Security-Certified-Associate.
  Core learning approach:
   Practical, lab-based training (not just theory)
   Simulate real API attacks and learn how to stop them
