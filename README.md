@@ -13,7 +13,7 @@ Configure lab environment
 Use tools like Postman
 Set up Wallarm Security Edge
 
-3. API Attack Techniques:
+2. API Attack Techniques:
 You’ll actually perform attacks like:
 Broken Authentication
 BOLA / IDOR (very important in APIs)
